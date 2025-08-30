@@ -31,7 +31,7 @@ with st.sidebar:
     # System instruction
     system_instruction = st.text_area(
         "System instruction",
-        value="You are a concise, helpful assistant.",
+        value="YI can only help with Maratha reservation and OBC-related questions in India. Please rephrase your question within that scope.",
         height=80
     )
     
