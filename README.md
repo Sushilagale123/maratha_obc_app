@@ -46,7 +46,7 @@ It will open automatically in your browser at `http://localhost:8501`.
 
 ## Notes
 
----
+--
 
 ## Usage
 - Enter your query in English or Marathi. The app auto-detects language and responds accordingly.
